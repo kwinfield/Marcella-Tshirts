@@ -3,7 +3,7 @@ import AddBtn from './add-btn'
 import RemoveBtn from './remove-btn'
 
 export default function ProductListItem(props) {
-  return <div className='product-list-item'>
+  return <div className='col-md-12 col-lg-6'>
     <h3>{ props.product.name }</h3>
     <img
       height={100}
@@ -28,7 +28,7 @@ export default function ProductListItem(props) {
           />
           : null
       }
-      
+
     </div>
   </div>
 }
