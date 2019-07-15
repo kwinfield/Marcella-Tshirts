@@ -1,13 +1,15 @@
 {
-  "files": {
-    "main.js": "/github.io/Marcella=Tshirts/static/js/main.c8ee7f18.chunk.js",
-    "main.js.map": "/github.io/Marcella=Tshirts/static/js/main.c8ee7f18.chunk.js.map",
-    "runtime~main.js": "/github.io/Marcella=Tshirts/static/js/runtime~main.66b4970b.js",
-    "runtime~main.js.map": "/github.io/Marcella=Tshirts/static/js/runtime~main.66b4970b.js.map",
-    "static/js/2.3b4c61cc.chunk.js": "/github.io/Marcella=Tshirts/static/js/2.3b4c61cc.chunk.js",
-    "static/js/2.3b4c61cc.chunk.js.map": "/github.io/Marcella=Tshirts/static/js/2.3b4c61cc.chunk.js.map",
-    "index.html": "/github.io/Marcella=Tshirts/index.html",
-    "precache-manifest.b6c264a3bba30a757dc14b9f4b5bafaf.js": "/github.io/Marcella=Tshirts/precache-manifest.b6c264a3bba30a757dc14b9f4b5bafaf.js",
-    "service-worker.js": "/github.io/Marcella=Tshirts/service-worker.js"
-  }
+  "main.css": "static/css/main.a34f4d0d.css",
+  "main.css.map": "static/css/main.a34f4d0d.css.map",
+  "main.js": "static/js/main.d2210440.js",
+  "main.js.map": "static/js/main.d2210440.js.map",
+  "static/media/aboutusimage.jpg": "static/media/aboutusimage.bb190981.jpg",
+  "static/media/bscarousel1.jpg": "static/media/bscarousel1.9ba5f44d.jpg",
+  "static/media/bscarousel2.jpg": "static/media/bscarousel2.6c0c247d.jpg",
+  "static/media/bscarousel3.jpg": "static/media/bscarousel3.1ce849e4.jpg",
+  "static/media/samplesaleitem1.jpg": "static/media/samplesaleitem1.e127d3fe.jpg",
+  "static/media/samplesaleitem2.jpg": "static/media/samplesaleitem2.d56f907c.jpg",
+  "static/media/samplesaleitem3.jpg": "static/media/samplesaleitem3.4721c789.jpg",
+  "static/media/shopBackground.jpg": "static/media/shopBackground.7b06657b.jpg",
+  "static/media/testbgimage.jpg": "static/media/testbgimage.ed4a9010.jpg"
 }
